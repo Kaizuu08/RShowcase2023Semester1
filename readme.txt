@@ -1,0 +1,1 @@
+By utilising R studio you can see the data i have manipulated and stored into variables to showcase my ability to manipulate data
